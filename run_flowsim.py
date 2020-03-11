@@ -21,7 +21,7 @@ import json
 import netifaces
 import time
 import shutil
-#"burset_size":10, "iter_no":10, "protocol":["QUIC"], "port":8081, "server_ip":["193.147.104.35"]
+#"burset_size":10, "iter_no":10, "protocol":["QUIC"], "port":8081, "server_ip":["xx.xx.xx.xx"]
 #Configuration for MONROE /monroe/config/
 CONFIG_FILE = '/monroe/config'
 RESULTS_DIR = "/monroe/results/"
