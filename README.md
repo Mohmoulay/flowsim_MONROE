@@ -19,7 +19,7 @@ A UNIX or UNIX-like OS
 
 ## Build and install
 
-Clone this repository under `$HOME/go/src/github.com/paaguti`:
+Clone this repository under `$HOME/go/src/github.com/Mohmoulay`:
 
 ```
 git clone https://github.com/Mohmoulay/flowsim_MONROE
