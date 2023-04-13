@@ -22,11 +22,11 @@ A UNIX or UNIX-like OS
 Clone this repository under `$HOME/go/src/github.com/paaguti`:
 
 ```
-git clone https://github.com/paaguti/flowsim
+git clone https://github.com/Mohmoulay/flowsim_MONROE
 cd flowsim/
 go test
 # Ignore the message:
-# ?   	github.com/paaguti/flowsim	[no test files]
+# ?   	github.com/Mohmoulay/flowsim_MONROE	[no test files]
 # The important thing is that all dependencies are installed
 #
 go build .
